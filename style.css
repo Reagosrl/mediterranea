@@ -54,7 +54,7 @@ nav {
   position: relative;
   display: flex;
   align-items: center;
-  background-image: url("assets/hero.jpg");
+  background-image: url("asset/hero.jpg");
   background-size: cover;
   background-position: center;
 }
